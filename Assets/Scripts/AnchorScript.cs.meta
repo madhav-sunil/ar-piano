@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7df2ed32764e204ab51ad0db236c9e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anchorPrefab: {fileID: 6235812678551909559, guid: 38f7dc6a5d7b5264f8f145c2657b812b, type: 3}
+  - controllerIndicatorPrefab: {fileID: 6235812678551909559, guid: 38f7dc6a5d7b5264f8f145c2657b812b, type: 3}
+  - planeMaterial: {fileID: 2100000, guid: dc0641b27ef284d3c8f35d7b64ed1a90, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
