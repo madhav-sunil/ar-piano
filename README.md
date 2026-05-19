@@ -15,7 +15,7 @@ piano more accessible and engaging, especially for beginners, by combining AR wi
 	* Oculus Integration (Deprecated)
 3) If the sample scene is not visible in the hierarchy, drag and drop the "SampleScene" from Projects within Assets>Scenes>SampleScene
 4) Edit>Project Settings>XR Plug in Management select Oculus
-5) Build and Run
+5) Build and Run.
 
 
 # Steps to Access and Use the Application 
